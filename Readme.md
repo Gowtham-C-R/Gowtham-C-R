@@ -3,7 +3,7 @@
 Hi there ✋! Welcome to my Data Analyst portfolio! This repository showcases some of my projects, technical skills, and experience. Here, you’ll find insights into how I approach data analysis, problem-solving, and the tools I use to create data-driven solutions.
 
 ## About Me
-I am a passionate and experienced Data Analyst with over 4 years of experience in leveraging advanced analytics, machine learning, and cloud technologies to deliver impactful solutions across various industries such as finance, healthcare, and technology. My focus is on transforming raw data into actionable insights, optimizing performance, and driving business outcomes.
+I am a passionate and experienced Data Analyst with over 2 years of experience in leveraging advanced analytics, machine learning, and cloud technologies to deliver impactful solutions across various industries such as finance, healthcare, and technology. My focus is on transforming raw data into actionable insights, optimizing performance, and driving business outcomes.
 
 You can learn more about me through my LinkedIn profile or reach out via email at [gowthamchandanraju9@gmail.com](mailto:gowthamchandanraju9@gmail.com).
 
